@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "nsoftware.IPWorks/24.0.8949": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/nsoftware.IPWorks.System.dll": {},
+          "lib/net6.0/nsoftware.IPWorks.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/nsoftware.IPWorks.System.dll": {},
+          "lib/net6.0/nsoftware.IPWorks.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "nsoftware.IPWorksMQ/24.0.8966": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/nsoftware.IPWorksMQ.System.dll": {},
+          "lib/net6.0/nsoftware.IPWorksMQ.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/nsoftware.IPWorksMQ.System.dll": {},
+          "lib/net6.0/nsoftware.IPWorksMQ.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "nsoftware.IPWorksSSL/24.0.8948": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/nsoftware.IPWorksSSL.System.dll": {},
+          "lib/net6.0/nsoftware.IPWorksSSL.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/nsoftware.IPWorksSSL.System.dll": {},
+          "lib/net6.0/nsoftware.IPWorksSSL.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nsoftware.IPWorks/24.0.8949": {
+      "sha512": "me6ZjfURAuJ5cv8T0YzQBNOVDCs6Y1CDbHIjl9EqA7Tw92nGDDvloDjyIGvt73jcW1VYj4heqyp7MJ0tjdG4YA==",
+      "type": "package",
+      "path": "nsoftware.ipworks/24.0.8949",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid40/nsoftware.IPWorks.System.dll",
+        "lib/monoandroid40/nsoftware.IPWorks.dll",
+        "lib/monoandroid40/nsoftware.IPWorks.xml",
+        "lib/net40/nsoftware.IPWorks.System.dll",
+        "lib/net40/nsoftware.IPWorks.dll",
+        "lib/net40/nsoftware.IPWorks.xml",
+        "lib/net6.0/nsoftware.IPWorks.System.dll",
+        "lib/net6.0/nsoftware.IPWorks.dll",
+        "lib/net6.0/nsoftware.IPWorks.xml",
+        "lib/netcoreapp3.1/nsoftware.IPWorks.System.dll",
+        "lib/netcoreapp3.1/nsoftware.IPWorks.dll",
+        "lib/netcoreapp3.1/nsoftware.IPWorks.xml",
+        "lib/netstandard2.0/nsoftware.IPWorks.System.dll",
+        "lib/netstandard2.0/nsoftware.IPWorks.dll",
+        "lib/netstandard2.0/nsoftware.IPWorks.xml",
+        "lib/uap10.0/nsoftware.IPWorks.System.dll",
+        "lib/uap10.0/nsoftware.IPWorks.dll",
+        "lib/uap10.0/nsoftware.IPWorks.xml",
+        "lib/xamarinios10/nsoftware.IPWorks.System.dll",
+        "lib/xamarinios10/nsoftware.IPWorks.dll",
+        "lib/xamarinios10/nsoftware.IPWorks.xml",
+        "lib/xamarinmac20/nsoftware.IPWorks.System.dll",
+        "lib/xamarinmac20/nsoftware.IPWorks.dll",
+        "lib/xamarinmac20/nsoftware.IPWorks.xml",
+        "license.txt",
+        "nsoftware.ipworks.24.0.8949.nupkg.sha512",
+        "nsoftware.ipworks.nuspec",
+        "packageIcon.png",
+        "readme.md"
+      ]
+    },
+    "nsoftware.IPWorksMQ/24.0.8966": {
+      "sha512": "Yc79CNtV8fNZyMT7GD/3nzF4dw/ojS9Ng+ZlN8uztjFNgStAH6SnM2vBdWZA+Y4WA5PVYWxWTWKCcUheBAEwMw==",
+      "type": "package",
+      "path": "nsoftware.ipworksmq/24.0.8966",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid40/nsoftware.IPWorksMQ.dll",
+        "lib/monoandroid40/nsoftware.IPWorksMQ.xml",
+        "lib/net40/nsoftware.IPWorksMQ.System.dll",
+        "lib/net40/nsoftware.IPWorksMQ.dll",
+        "lib/net40/nsoftware.IPWorksMQ.xml",
+        "lib/net6.0/nsoftware.IPWorksMQ.System.dll",
+        "lib/net6.0/nsoftware.IPWorksMQ.dll",
+        "lib/net6.0/nsoftware.IPWorksMQ.xml",
+        "lib/netcoreapp3.1/nsoftware.IPWorksMQ.dll",
+        "lib/netcoreapp3.1/nsoftware.IPWorksMQ.xml",
+        "lib/netstandard2.0/nsoftware.IPWorksMQ.dll",
+        "lib/netstandard2.0/nsoftware.IPWorksMQ.xml",
+        "lib/uap10.0/nsoftware.IPWorksMQ.dll",
+        "lib/uap10.0/nsoftware.IPWorksMQ.xml",
+        "lib/xamarinios10/nsoftware.IPWorksMQ.dll",
+        "lib/xamarinios10/nsoftware.IPWorksMQ.xml",
+        "lib/xamarinmac20/nsoftware.IPWorksMQ.dll",
+        "lib/xamarinmac20/nsoftware.IPWorksMQ.xml",
+        "license.txt",
+        "nsoftware.ipworksmq.24.0.8966.nupkg.sha512",
+        "nsoftware.ipworksmq.nuspec",
+        "packageIcon.png",
+        "readme.md"
+      ]
+    },
+    "nsoftware.IPWorksSSL/24.0.8948": {
+      "sha512": "jZGn4arasF5vOK4loSut8O/xpRWlnPqGGotDrAHjCmrTUYhqd1Tv6p9iDGga5kSyH3aN9QNxE1gvrcZMiAitoA==",
+      "type": "package",
+      "path": "nsoftware.ipworksssl/24.0.8948",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/nsoftware.IPWorksSSL.System.dll",
+        "lib/net40/nsoftware.IPWorksSSL.dll",
+        "lib/net40/nsoftware.IPWorksSSL.xml",
+        "lib/net6.0/nsoftware.IPWorksSSL.System.dll",
+        "lib/net6.0/nsoftware.IPWorksSSL.dll",
+        "lib/net6.0/nsoftware.IPWorksSSL.xml",
+        "license.txt",
+        "nsoftware.ipworksssl.24.0.8948.nupkg.sha512",
+        "nsoftware.ipworksssl.nuspec",
+        "packageIcon.png",
+        "readme.md"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "nsoftware.IPWorks >= 24.0.8949",
+      "nsoftware.IPWorksMQ >= 24.0.8966",
+      "nsoftware.IPWorksSSL >= 24.0.8948"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\deale\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\deale\\source\\repos\\nSolutionTask\\nSolutionTask\\nSolutionTask.csproj",
+      "projectName": "nSolutionTask",
+      "projectPath": "C:\\Users\\deale\\source\\repos\\nSolutionTask\\nSolutionTask\\nSolutionTask.csproj",
+      "packagesPath": "C:\\Users\\deale\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\deale\\source\\repos\\nSolutionTask\\nSolutionTask\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\deale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "nsoftware.IPWorks": {
+            "target": "Package",
+            "version": "[24.0.8949, )"
+          },
+          "nsoftware.IPWorksMQ": {
+            "target": "Package",
+            "version": "[24.0.8966, )"
+          },
+          "nsoftware.IPWorksSSL": {
+            "target": "Package",
+            "version": "[24.0.8948, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

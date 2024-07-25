@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhqRhEGYogU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deale\\source\\repos\\nSolutionTask\\nSolutionTask\\nSolutionTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deale\\.nuget\\packages\\nsoftware.ipworks\\24.0.8949\\nsoftware.ipworks.24.0.8949.nupkg.sha512",
+    "C:\\Users\\deale\\.nuget\\packages\\nsoftware.ipworksmq\\24.0.8966\\nsoftware.ipworksmq.24.0.8966.nupkg.sha512",
+    "C:\\Users\\deale\\.nuget\\packages\\nsoftware.ipworksssl\\24.0.8948\\nsoftware.ipworksssl.24.0.8948.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nSolutionTask/1.0.0": {
+        "dependencies": {
+          "nsoftware.IPWorks": "24.0.8949",
+          "nsoftware.IPWorksMQ": "24.0.8966",
+          "nsoftware.IPWorksSSL": "24.0.8948"
+        },
+        "runtime": {
+          "nSolutionTask.dll": {}
+        }
+      },
+      "nsoftware.IPWorks/24.0.8949": {
+        "runtime": {
+          "lib/net6.0/nsoftware.IPWorks.System.dll": {
+            "assemblyVersion": "24.0.8949.0",
+            "fileVersion": "24.0.8949.0"
+          },
+          "lib/net6.0/nsoftware.IPWorks.dll": {
+            "assemblyVersion": "24.0.8949.0",
+            "fileVersion": "24.0.8949.0"
+          }
+        }
+      },
+      "nsoftware.IPWorksMQ/24.0.8966": {
+        "runtime": {
+          "lib/net6.0/nsoftware.IPWorksMQ.System.dll": {
+            "assemblyVersion": "24.0.8966.0",
+            "fileVersion": "24.0.8966.0"
+          },
+          "lib/net6.0/nsoftware.IPWorksMQ.dll": {
+            "assemblyVersion": "24.0.8966.0",
+            "fileVersion": "24.0.8966.0"
+          }
+        }
+      },
+      "nsoftware.IPWorksSSL/24.0.8948": {
+        "runtime": {
+          "lib/net6.0/nsoftware.IPWorksSSL.System.dll": {
+            "assemblyVersion": "24.0.8948.0",
+            "fileVersion": "24.0.8948.0"
+          },
+          "lib/net6.0/nsoftware.IPWorksSSL.dll": {
+            "assemblyVersion": "24.0.8948.0",
+            "fileVersion": "24.0.8948.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nSolutionTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "nsoftware.IPWorks/24.0.8949": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-me6ZjfURAuJ5cv8T0YzQBNOVDCs6Y1CDbHIjl9EqA7Tw92nGDDvloDjyIGvt73jcW1VYj4heqyp7MJ0tjdG4YA==",
+      "path": "nsoftware.ipworks/24.0.8949",
+      "hashPath": "nsoftware.ipworks.24.0.8949.nupkg.sha512"
+    },
+    "nsoftware.IPWorksMQ/24.0.8966": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yc79CNtV8fNZyMT7GD/3nzF4dw/ojS9Ng+ZlN8uztjFNgStAH6SnM2vBdWZA+Y4WA5PVYWxWTWKCcUheBAEwMw==",
+      "path": "nsoftware.ipworksmq/24.0.8966",
+      "hashPath": "nsoftware.ipworksmq.24.0.8966.nupkg.sha512"
+    },
+    "nsoftware.IPWorksSSL/24.0.8948": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jZGn4arasF5vOK4loSut8O/xpRWlnPqGGotDrAHjCmrTUYhqd1Tv6p9iDGga5kSyH3aN9QNxE1gvrcZMiAitoA==",
+      "path": "nsoftware.ipworksssl/24.0.8948",
+      "hashPath": "nsoftware.ipworksssl.24.0.8948.nupkg.sha512"
+    }
+  }
+}
